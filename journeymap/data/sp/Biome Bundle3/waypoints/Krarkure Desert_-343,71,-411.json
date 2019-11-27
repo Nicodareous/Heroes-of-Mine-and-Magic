@@ -1,0 +1,19 @@
+{
+  "id": "Krarkure Desert_-343,71,-411",
+  "name": "Krarkure Desert",
+  "displayId": "4d39764d-1622-4f24-80f2-251c1d38cf08",
+  "icon": "waypoint-normal.png",
+  "x": -343,
+  "y": 71,
+  "z": -411,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

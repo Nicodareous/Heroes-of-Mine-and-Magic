@@ -1,0 +1,19 @@
+{
+  "id": "Casorzur Desert_4327,65,-2856",
+  "name": "Casorzur Desert",
+  "displayId": "0108dcd5-6d68-41e1-9494-89d46adcb566",
+  "icon": "waypoint-normal.png",
+  "x": 4327,
+  "y": 65,
+  "z": -2856,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

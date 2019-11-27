@@ -1,0 +1,19 @@
+{
+  "id": "Zorkclomur_-1056,64,-1898",
+  "name": "Zorkclomur",
+  "displayId": "b7dc3be3-509c-4741-b0fa-c6f7a0d79099",
+  "icon": "waypoint-normal.png",
+  "x": -1056,
+  "y": 64,
+  "z": -1898,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

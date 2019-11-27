@@ -1,0 +1,510 @@
+[
+    {
+        "spawner": true,
+        "result": "allow"
+    },
+    {
+        "dimension": 0,
+        "spawner": false,
+        "mincount": {
+            "amount": 50,
+            "perchunk": true
+        },
+        "onjoin": true,
+        "result": "deny"
+    },
+    {
+        "onjoin": true,
+        "seesky": false,
+        "maxlight": 7,
+        "maxheight": 25,
+        "random": 0.1,
+        "mob": [
+           "lycanitesmobs:beholder",
+            "lycanitesmobs:eechetik",
+            "lycanitesmobs:geonach",
+            "lycanitesmobs:ettin"
+        ],
+        "result": "allow"
+    },
+    {
+        "onjoin": true,
+        "seesky": false,
+        "maxlight": 7,
+        "maxheight": 50,
+        "random": 0.25,
+		"block": [
+		  "minecraft:stone",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1",
+		  "minecraft:cobblestone"
+		],
+        "mob": [
+            "mocreatures:caveogre",
+            "iceandfire:if_troll",
+            "lycanitesmobs:chupacabra",
+            "lycanitesmobs:morock",
+            "mocreatures:rat",
+            "minecraft:spider",
+            "minecraft:bat",
+            "goblin_mod_reforged:mineur",
+            "lycanitesmobs:kobold"
+        ],
+        "result": "allow"
+    },
+    {
+        "structure": "Village",
+        "hostile": true,
+        "onjoin": true,
+        "result": "deny"
+    },
+    {
+        "structure": "Stronghold",
+        "mob": [
+			"minecraft:zombie",
+			"minecraft:zombie_villager",
+			"minecraft:skeleton",
+			"minecraft:cave_spider",
+            "minecraft:spider",
+			"minecraft:witch"
+		],
+        "result": "default"
+    },
+	{
+        "structure": "WitchMansion2C2R2",
+        "mob": [
+			"minecraft:zombie",
+			"minecraft:zombie_villager",
+			"minecraft:skeleton",
+			"minecraft:cave_spider",
+            "minecraft:spider",
+			"minecraft:witch"
+		],
+        "result": "default"
+    },
+	{
+        "structure": "WitchMansion3",
+        "mob": [
+			"minecraft:zombie",
+			"minecraft:zombie_villager",
+			"minecraft:skeleton",
+			"minecraft:cave_spider",
+            "minecraft:spider",
+			"minecraft:witch"
+		],
+        "result": "default"
+    },
+	{
+        "structure": "WitchMansion4",
+        "mob": [
+			"minecraft:zombie",
+			"minecraft:zombie_villager",
+			"minecraft:skeleton",
+			"minecraft:cave_spider",
+            "minecraft:spider",
+			"minecraft:witch"
+		],
+        "result": "default"
+    },
+    {
+		"biome": ["SwamplandSpooky"],
+        "mintime": 13000,
+        "maxtime": 22000,
+        "mob": [
+			"minecraft:witch"
+        ],
+        "onjoin": true,
+        "result": "allow"
+    },
+    {
+		"biome": ["Webbed Forest", "Webbed Forest Grove", "Webbed Hills"],
+        "mob": [
+			"minecraft:spider",
+            "minecraft:cave_spider",
+            "lycanitesmobs:tarantula",
+            "lycanitesmobs:lurker"
+		],
+        "onjoin": true,
+        "angry": true,
+        "result": "allow"
+    },
+	{
+		"dimension": 0,
+		"biome": ["Plains", "Cold Plains", "Birch Meadow", "FloatingPlains","Highlands"],
+		"mob": [
+			"minecraft:sheep",
+			"minecraft:horse",
+			"minecraft:cow",
+			"minecraft:rabbit",
+			"mocreatures:fox",
+			"minecraft:chicken",
+			"mocreatures:butterfly",
+			"mocreatures:bird",
+			"mocreatures:boar",
+			"mocreatures:duck",
+			"mocreatures:turkey",
+            "mocreatures:bunny"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Forest", "Birch Forest", "Taiga", "ForestConifer", "Tundra"],
+		"mob": [
+			"goblin_mod_reforged:goblin"
+		],
+        "onjoin": true,
+        "angry": true,
+		"result": "allow"
+	},
+    {
+		"dimension": 0,
+		"mintime":6000,
+		"maxtime":12000,
+        "mincount":{
+            "amount": 1,
+            "perchunk": true
+        },
+		"biome": ["Forest", "Birch Forest", "Taiga", "ForestConifer", "Tundra"],
+		"mob": [
+            "mocreatures:greenogre"
+		],
+        "onjoin": true,
+        "angry": true,
+		"result": "allow"
+	},
+    {
+		"dimension": 0,
+        "random": 0.05,
+        "mintime":13800,
+        "maxtime":22000,
+        "mincount":{
+            "amount": 1,
+            "perchunk": true
+        },
+		"biome": ["Forest", "Birch Forest", "Taiga", "ForestConifer", "Tundra"],
+		"mob": [
+            "iceandfire:if_troll"
+		],
+        "onjoin": true,
+        "angry": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Forest", "Birch Forest", "Autumnal Woods", "Taiga", "ForestConifer", "Tundra", "Flower Forest","Redwood Forest"],
+		"mob": [
+			"minecraft:rabbit",
+			"mocreatures:fox",
+			"mocreatures:raccoon",
+			"mocreatures:butterfly",
+			"mocreatures:deer",
+			"mocreatures:boar",
+			"mocreatures:duck",
+			"mocreatures:turkey",
+			"mocreatures:mole",
+			"mocreatures:butterfly",
+			"mocreatures:bird",
+			"mocreatures:deer",
+			"mocreatures:blackbear",
+            "mocreatures:bunny",
+			"lycanitesmobs:nymph",
+			"minecraft:wolf"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Extreme Hills"],
+		"mob": [
+			"mocreatures:goat",
+			"mocreatures:grizzlybear",
+			"mocreatures:turkey",
+			"mocreatures:blackbear",
+			"mocreatures:butterfly",
+			"mocreatures:bird"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+    {
+		"dimension": 0,
+		"biome": ["Steppe"],
+		"mob": [
+			"mocreatures:goat",
+			"mocreatures:grizzlybear",
+            "mocreatures:bunny",
+			"minecraft:rabbit",
+			"mocreatures:fox",
+			"mocreatures:raccoon",
+			"mocreatures:butterfly"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+	{
+		"dimension": 0,
+        "random": 0.25,
+		"biome": ["Desert", "Mesa"],
+		"mob": [
+			"iceandfire:deathworm",
+			"mocreatures:manticore",
+			"mocreatures:snake",
+            "mocreatures:scorpion",
+			"lycanitesmobs:sutiramu",
+			"lycanitesmobs:manticore",
+			"minecraft:rabbit"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Cold Taiga", "Frozen Forest", "IcyMountains", "SnowyPlains"],
+		"mob": [
+			"minecraft:rabbit",
+			"mocreatures:fox",
+			"mocreatures:raccoon",
+			"lycanitesmobs:wendigo",
+			"minecraft:wolf"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Arctic", "Glacier", "Ice Plains"],
+		"mob": [
+			"lycanitesmobs:yeti",
+			"lycanitesmobs:arix",
+			"lycanitesmobs:serpix",
+			"twilightforest:penguin",
+			"lycanitesmobs:reiver",
+			"minecraft:polar_bear"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+        "random": 0.25,
+		"biome": ["Mesa"],
+		"mob": [
+			"minecraft:mule"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Jungle", "JungleSwampy", "JungleAncient", "Extreme Hills Jungle", "FloatingJungle", "Rainforest"],
+		"mob": [
+			"mocreatures:snake",
+			"mocreatures:leopard",
+			"mocreatures:tiger",
+			"mocreatures:panther",
+			"minecraft:parrot",
+			"lycanitesmobs:concapede",
+			"lycanitesmobs:uvaraptor",
+			"mocreatures:cricket",
+			"mocreatures:dragonfly",
+            "thebetweenlands:frog",
+			"minecraft:ocelot"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Flower Forest", "ForestEnchanted"],
+		"mob": [
+			"iceandfire:if_pixie"
+		],
+        "onjoin": true,
+		"result": "allow"		
+	},
+	{
+		"dimension": 0,
+		"biome": ["Roofed Forest", "Roofed Forest M", "RoofedForestEnchanted", "Roofed Fungi Forest"],
+		"mob": [
+			"minecraft:witch",
+			"minecraft:rabbit",
+			"mocreatures:fox",
+			"mocreatures:raccoon",
+			"mocreatures:butterfly",
+			"mocreatures:werewolf",
+            "mocreatures:bunny",
+			"lycanitesmobs:nymph",
+			"minecraft:wolf"
+		],
+        "onjoin": true,
+		"result": "allow"		
+	},
+	{
+		"dimension": 0,
+        "angry": true,
+		"biome": ["Swampland","SwamplandSpooky", "JungleSwampy", "Marsh", "Mangrove Forest"],
+		"mob": [
+			"mocreatures:firefly",
+			"mocreatures:cricket",
+			"mocreatures:dragonfly",
+			"mocreatures:komododragon",
+			"mocreatures:crocodile",
+			"mocreatures:piranha",
+			"mocreatures:turtle",
+			"lycanitesmobs:arisaur",
+            "thebetweenlands:frog",
+            "lycanitesmobs:aglebemu",
+            "lycanitesmobs:remobra",
+			"lycanitesmobs:strider"
+		],
+        "onjoin": true,
+		"result": "default"
+	},
+	{
+		"dimension": 0,
+		"biome": ["MushroomIsland", "GiantMushroomIsland"],
+		"mob": [
+			"mocreatures:firefly",
+			"lycanitesmobs:strider",
+			"mocreatures:piranha",
+			"minecraft:mooshroom"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Savanna","Tropical Savanna"],
+        "random": 0.1,
+		"mob": [
+			"mocreatures:elephant",
+			"mocreatures:lion",
+			"lycanitesmobs:feradon",
+			"lycanitesmobs:calpod",
+			"mocreatures:boar",
+			"minecraft:rabbit"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"biome": ["Ocean", "River"],
+		"mob": [
+			"minecraft:squid",
+			"lycanitesmobs:thresher",
+			"mocreatures:jellyfish",
+			"mocreatures:shark",
+			"mocreatures:mantaray"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"maxheight": 40,
+		"biome": ["Ocean", "River"],
+		"mob": [
+			"lycanitesmobs:lacedon",
+			"lycanitesmobs:ioray",
+			"lycanitesmobs:roa"
+		],
+        "onjoin": true,
+		"result": "allow"
+	},
+	{
+		"mob": [
+			"minecraft:creeper",
+			"minecraft:zombie",
+			"minecraft:zombie_horse",
+			"minecraft:zombie_villager",
+			"minecraft:zombie_pigman",
+			"minecraft:skeleton",
+			"minecraft:cave_spider",
+            "minecraft:spider",
+			"minecraft:witch"
+		],
+        "spawner": false,
+        "onjoin": true,
+		"result": "deny"
+	},
+	{
+		"dimension": 0,
+		"mob": [
+			"minecraft:enderman",
+			"minecraft:endermite",
+			"thebetweenlands:lurker",
+            "minecraft:spider"
+		],
+        "spawner": false,
+        "onjoin": true,
+		"result": "deny"
+	},
+    {
+		"dimension": 0,
+        "mod":"iceandfire",
+        "onjoin": true,
+		"result": "default"
+	},
+    {
+		"dimension": 0,
+		"biome": ["Ocean","River","Jungle"],
+        "mod":"jaff",
+        "onjoin": true,
+		"result": "default"
+	},
+    {
+		"dimension": 0,
+        "mod":"lumen",
+        "onjoin": true,
+		"result": "default"
+	},
+    {
+		"dimension": 0,
+        "mod":"mocreatures",
+        "onjoin": true,
+        "spawner": false,
+		"result": "deny"
+	},
+    {
+		"dimension": 0,
+        "mod":"quark",
+        "onjoin": true,
+		"result": "default"
+	},
+    {
+		"dimension": 0,
+        "mod":"lycanitesmobs",
+        "onjoin": true,
+        "spawner": false,
+        "result": "deny"
+    },
+    {
+		"dimension": 0,
+        "onjoin": true,
+        "mob": [
+            "thebetweenlands:dark_druid",
+            "minecraft:villager",
+            "minecraft:villager_golem",
+            "minecraft:squid",
+            "minecraft:silverfish"
+        ],
+        "result": "default"
+    },
+    {
+		"dimension": 0,
+        "onjoin": true,
+        "mod":"tektopia",
+        "result": "default"
+    },
+	{
+		"dimension": 0,
+        "spawner": false,
+        "onjoin": true,
+		"result": "deny"
+	}
+]

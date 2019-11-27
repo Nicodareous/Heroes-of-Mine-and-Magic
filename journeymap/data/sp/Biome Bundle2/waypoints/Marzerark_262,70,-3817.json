@@ -1,0 +1,19 @@
+{
+  "id": "Marzerark_262,70,-3817",
+  "name": "Marzerark",
+  "displayId": "a28f7021-d3ff-410a-bb4a-72fbb474a0e7",
+  "icon": "waypoint-normal.png",
+  "x": 262,
+  "y": 70,
+  "z": -3817,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "forest",
+    "criteria" : {
+        "biomeTypes" : [
+            "FOREST"
+            ]
+    },
+    "tower" : {
+        "type" : "ROGUE",
+        "theme" : {
+            "base" : "TOWER"
+        }
+    }
+}

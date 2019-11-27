@@ -1,0 +1,19 @@
+{
+  "id": "Mrokmaracder Plains_2025,71,-1940",
+  "name": "Mrokmaracder Plains",
+  "displayId": "841fff74-ba4d-47b3-9d7d-3c1b765b74e5",
+  "icon": "waypoint-normal.png",
+  "x": 2025,
+  "y": 71,
+  "z": -1940,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

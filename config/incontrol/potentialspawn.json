@@ -1,0 +1,545 @@
+[
+    {
+		"dimension": 0,
+		"block": [
+		  "minecraft:grass",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1"
+		],
+		"random":0.1,
+		"biome": [
+		  "Plains",
+		  "Forest",
+		  "Birch Forest",
+          "Taiga",
+          "Tundra",
+          "Flower Forest",
+          "Redwood Forest",
+          "ForestConifer",
+		  "Roofed Forest"
+		],
+		"mobs": [
+		  {
+			"mob": "mocreatures:bird",
+			"weight": 10,
+			"groupcountmin": 1,
+			"groupcountmax": 3
+		  },
+          {
+			"mob": "mocreatures:fox",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "mocreatures:raccoon",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+          {
+			"mob": "mocreatures:bunny",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 3
+		  },
+          {
+			"mob": "mocreatures:boar",
+			"weight": 10,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+		  },
+          {
+			"mob": "mocreatures:duck",
+			"weight": 10,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+          {
+			"mob": "mocreatures:deer",
+			"weight": 10,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+		  }
+		]
+    },    
+    {
+        "structure": "WitchMansion2C2R2",
+        "mobs": [
+			{
+                "mob": "minecraft:spider",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+		]
+    },
+	{
+        "structure": "WitchMansion3",
+        "mobs": [
+			{
+                "mob": "minecraft:spider",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+		]
+    },
+	{
+        "structure": "WitchMansion4",
+        "mobs": [
+			{
+                "mob": "minecraft:spider",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+		]
+    },
+    {
+		"dimension": 0,
+		"block": [
+		  "minecraft:grass",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1"
+		],
+		"random":0.1,
+		"biome": [
+		  "Plains",
+          "Highlands"
+		],
+		"mobs": [
+          {
+			"mob": "minecraft:sheep",
+			"weight": 5,
+			"groupcountmin": 2,
+			"groupcountmax": 6
+		  },
+          {
+			"mob": "minecraft:horse",
+			"weight": 2,
+			"groupcountmin": 1,
+			"groupcountmax": 3
+		  }
+		]
+    },
+	{
+		"dimension": 0,
+		"block": [
+		  "minecraft:grass",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1"
+		],
+		"random":0.25,
+        "damagemultiply": 0.25,
+		"biome": [
+		  "Forest",
+		  "Birch Forest",
+          "Taiga",
+          "Tundra",
+          "ForestConifer"
+		],
+		"mobs": [
+		  {
+			"mob": "goblin_mod_reforged:goblin",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+  },
+  {
+		"dimension": 0,
+        "random": 0.1,
+		"biome": ["Webbed Forest", "Webbed Forest Grove", "Webbed Hills"],
+        "mobs": [
+            {
+                "mob": "minecraft:spider",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "minecraft:cave_spider",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 4
+            },
+            {
+                "mob": "lycanitesmobs:tarantula",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:lurker",
+                "weight": 2,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+  	{
+		"dimension": 0,
+		"block": [
+		  "minecraft:grass",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1"
+		],
+		"random":0.08,
+		"biome": [
+		  "Plains",
+		  "Forest",
+		  "Birch Forest",
+          "Taiga",
+          "Tundra",
+          "ForestConifer"
+		],
+		"mobs": [
+		  {
+			"mob": "mocreatures:greenogre",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "lycanitesmobs:nymph",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },{
+			"mob": "iceandfire:if_troll",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+  },
+   {
+		"dimension": 0,
+		"biome": ["Jungle", "JungleSwampy", "JungleAncient", "Extreme Hills Jungle", "FloatingJungle"],
+        "random":0.5,
+        "mobs": [
+            {
+                "mob": "mocreatures:firefly",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:cricket",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:dragonfly",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:komododragon",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:turtle",
+                "weight": 15,
+                "groupcountmin": 1,
+                "groupcountmax": 10
+            },
+            {
+                "mob": "thebetweenlands:frog",
+                "weight": 15,
+                "groupcountmin": 1,
+                "groupcountmax": 6
+            },
+            {
+                "mob": "mocreatures:snake",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 3
+            },
+            {
+                "mob": "minecraft:parrot",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 3
+            },
+            {
+                "mob": "lycanitesmobs:concapede",
+                "weight": 2,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:concapede",
+                "weight": 2,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:uvaraptor",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:leopard",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:tiger",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:panther",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+  {
+		"dimension": 0,
+		"biome": ["Swampland","SwamplandSpooky", "JungleSwampy", "Marsh", "Mangrove Forest","Rainforest"],
+        "random":0.5,
+        "mobs": [
+            {
+                "mob": "mocreatures:firefly",
+                "weight": 25,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:cricket",
+                "weight": 25,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:dragonfly",
+                "weight": 25,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "mocreatures:komododragon",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:crocodile",
+                "weight": 15,
+                "groupcountmin": 1,
+                "groupcountmax": 10
+            },
+            {
+                "mob": "mocreatures:turtle",
+                "weight": 15,
+                "groupcountmin": 1,
+                "groupcountmax": 10
+            },
+            {
+                "mob": "lycanitesmobs:arisaur",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:strider",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:aglebemu",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:remobra",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 3
+            },
+            {
+                "mob": "thebetweenlands:frog",
+                "weight": 15,
+                "groupcountmin": 1,
+                "groupcountmax": 6
+            }
+        ]
+  },
+    {
+		"dimension": 0,
+		"biome": ["SwamplandSpooky"],
+        "mintime": 13000,
+        "maxtime": 22000,
+        "random":0.15,
+        "mobs": [
+            {
+                "mob": "minecraft:witch",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+  {
+		"dimension": 0,
+		"random":0.25,
+		"biome": [
+		  "Desert",
+		  "Mesa"
+		],
+		"mobs": [
+		  {
+			"mob": "mocreatures:scorpion",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "lycanitesmobs:sutiramu",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "mocreatures:snake",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+          {
+			"mob": "mocreatures:manticore",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+  },
+  {
+		"dimension": 0,
+		"biome": [
+		  "Ocean"
+		],
+		"mobs": [
+		  {
+			"mob": "lycanitesmobs:thresher",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+  },
+  {
+		"dimension": 0,
+		"biome": ["Savanna","Tropical Savanna"],
+        "mobs": [
+            {
+                "mob": "mocreatures:elephant",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "mocreatures:lion",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:feradon",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "lycanitesmobs:calpod",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 3
+            },
+            {
+                "mob": "mocreatures:boar",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 3
+            }
+        ]
+  },
+  {
+		"dimension": 0,
+		"block": [
+		  "minecraft:stone",
+		  "minecraft:sand",
+		  "minecraft:dirt",
+		  "minecraft:sand@1",
+		  "minecraft:cobblestone"
+		],
+		"mobs": [
+		  {
+			"mob": "mocreatures:caveogre",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "lycanitesmobs:beholder",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+          {
+			"mob": "goblin_mod_reforged:mineur",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+		  },
+          {
+			"mob": "lycanitesmobs:kobold",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+		  },
+		  {
+			"mob": "lycanitesmobs:chupacabra",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "minecraft:spider",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+          {
+			"mob": "minecraft:bat",
+			"weight": 10,
+			"groupcountmin": 1,
+			"groupcountmax": 3
+		  }
+		]
+  }
+]

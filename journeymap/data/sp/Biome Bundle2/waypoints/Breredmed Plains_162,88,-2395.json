@@ -1,0 +1,19 @@
+{
+  "id": "Breredmed Plains_162,88,-2395",
+  "name": "Breredmed Plains",
+  "displayId": "f320e781-cc57-49bd-9564-9e59ff1b2fd6",
+  "icon": "waypoint-normal.png",
+  "x": 162,
+  "y": 88,
+  "z": -2395,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

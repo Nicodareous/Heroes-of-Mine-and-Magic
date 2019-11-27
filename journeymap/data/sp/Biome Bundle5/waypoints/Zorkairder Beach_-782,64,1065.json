@@ -1,0 +1,19 @@
+{
+  "id": "Zorkairder Beach_-782,64,1065",
+  "name": "Zorkairder Beach",
+  "displayId": "1332c608-15b1-4b52-80e8-73a44f8bfce4",
+  "icon": "waypoint-normal.png",
+  "x": -782,
+  "y": 64,
+  "z": 1065,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
