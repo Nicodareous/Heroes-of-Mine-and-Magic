@@ -6,9 +6,51 @@
 
     <chapter>
         <section>
-            <link ref="0:1">Test</link>
-            <link ref="chapter2">Test</link>
+            <link ref="intro">Introduction</link>
+            <link ref="land">Landscape</link>
+			<link ref="progress">Progression</link>
+			<link ref="adventure">Adventurer's Quest</link>
         </section>
+		<section id="intro">
+			<title>Introduction<title>
+			<p>Welcome to the world of Heroes of Mine and Magic!</p>
+			<p>Quick start: Press the 'L' key to see the advancement quests.</p>
+			<p>At first glance, the world may appear similar to what you're used to, but many aspects of the world are far different from vanilla minecraft.</p>
+			<p>For example, the undead, spiders, and creepers no longer appear all over the world at night, and the citizens of the world now desire coinage over emeralds.</p>
+			<p>See the landscape section for a brief description of each biomes and the threats they contain.</p>
+			<p>See the Aventurer's Quest section for information about the first "stage".</p>
+		</section>
+		<section id="land">
+			<title>Landscape<title>
+			<p>Different areas of the world harbor different dangers. This section of the guide will aquaint you with various biomes and lands you may encounter on your travels.<p>
+			<p bold="true">Plains, Highlands, Autumnal Woods:</p>
+			<p>These areas of the world are peaceful and serene. Few monsters roam these biomes and they are mostly populated with herd animals, such as sheep and cows.</p>
+			<p bold="true">Forests, Tundra, and Taiga:</p>
+			<p>The thick woodlands of the world harbor some limited dangers in the forms of goblins, ogres, and the occasional bandit. At night, trolls are said to emerge from their lairs. Woodlands can be excellent hunting grounds thanks to the abundance of wildlife.</p>
+			<p bold="true">Deserts and Mesas:</p>
+			<p>These arid regions are home to deadly scorpions and manticore, as well as dangers dwelling just beneath the sand. Only seasoned adventures should attempt to cross desert regions.</p>
+			<p bold="true">Swamps:</p>
+			<p>Swamplands teem with creatures, both predator and prey. As you might expect, crocodiles fill the land, as well as deadlier threats, especially in the darker swamps.</p>
+			<p bold="true">Jungles:</p>
+			<p>Jungles hold many exotic creatures, many of which are predatory big cats. Other ancient reptiles pose a hazard. These are areas for an intermediate adventurer.</p>
+			<p bold="true">Savanna:</p>
+			<p>The dry grasslands are home to large wildlife and dangerous big cats. Dangerous insect life also teems amongst the plains.</p>
+			<p bold="true">Subterranean (Caves):</p>
+			<p>The caves of this world grow more dangerous the further down one delves. The caverns don't end at bedrock, at the lowest depths, an adventure will find themselves in the Deep Dark, a place of ancient dwarven ruins and dark elven fotresses. Shadowy monstrosities roam the cavernous plains, but great riches also await.</p>
+		</section>
+		<section id="progress">
+			<title>Progression<title>
+			<p>Press 'L' to see the quests and advancements. Although you may come across many other quests in the overworld, the quests here can be thought of as your "Main quests"</p>
+			<p>There are several sets of advancement stages. To pursue advancements to the next stage, accomplish quests with a blue background.</p>
+			<p>Side advancements (non-blue) are working doing too! Each quest will reward you with experience and items.</p>
+		</section>
+		<section id="adventure">
+			<title>Adventurer's Quest</title>
+			<p>You begin your journey as an adventurer, penniless, with only this guidebook and a few coins. You're unable to build until you've proven yourself.</p>
+			<p>For now, you'll need to earn coin by exploring dungeons, fighting monsters, and selling goods.</p>
+			<p>Taverns and inns dot the land and hold various tradesmen and quest-givers. These are also the best places to rent a room, rest, and store goods.</p>
+			<p>Traveling stones (waypoints) are found at all inns and most dungeons.</p>
+		</section>
         <section condition="test1">
             <p scale="1.0">Left</p>
             <p align="center">Center</p>
