@@ -7,7 +7,7 @@
 		  "minecraft:dirt",
 		  "minecraft:sand@1"
 		],
-		"random":0.1,
+		"random":0.4,
 		"biome": [
 		  "Plains",
 		  "Forest",
@@ -127,13 +127,7 @@
     },
 	{
 		"dimension": 0,
-		"block": [
-		  "minecraft:grass",
-		  "minecraft:sand",
-		  "minecraft:dirt",
-		  "minecraft:sand@1"
-		],
-		"random":0.25,
+		"random":0.4,
         "damagemultiply": 0.25,
 		"biome": [
 		  "Forest",
@@ -184,12 +178,6 @@
   },
   	{
 		"dimension": 0,
-		"block": [
-		  "minecraft:grass",
-		  "minecraft:sand",
-		  "minecraft:dirt",
-		  "minecraft:sand@1"
-		],
 		"random":0.08,
 		"biome": [
 		  "Plains",
@@ -400,10 +388,11 @@
   },
   {
 		"dimension": 0,
-		"random":0.25,
+        "random": 0.15,
 		"biome": [
 		  "Desert",
-		  "Mesa"
+		  "Mesa",
+          "DesertHills"
 		],
 		"mobs": [
 		  {
@@ -448,7 +437,7 @@
   },
   {
 		"dimension": 0,
-		"biome": ["Savanna","Tropical Savanna"],
+		"biome": ["Savanna","Tropical Savanna", "SavannaEdge"],
         "mobs": [
             {
                 "mob": "mocreatures:elephant",

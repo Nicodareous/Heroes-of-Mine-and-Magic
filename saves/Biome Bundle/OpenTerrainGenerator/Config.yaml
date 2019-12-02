@@ -14,7 +14,7 @@ Overworld:
     - "DIRT"
     DimensionBelow: "-11325"
     DimensionAbove: ""
-    DimensionBelowHeight: 10
+    DimensionBelowHeight: 0
     DimensionAboveHeight: 256
     TeleportToSpawnOnly: false
     WelcomeMessage: ""

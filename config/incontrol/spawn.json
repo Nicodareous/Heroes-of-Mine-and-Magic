@@ -69,6 +69,7 @@
             "minecraft:spider",
 			"minecraft:witch"
 		],
+        "onjoin": true,
         "result": "default"
     },
 	{
@@ -81,6 +82,7 @@
             "minecraft:spider",
 			"minecraft:witch"
 		],
+        "onjoin": true,
         "result": "default"
     },
 	{
@@ -93,6 +95,7 @@
             "minecraft:spider",
 			"minecraft:witch"
 		],
+        "onjoin": true,
         "result": "default"
     },
 	{
@@ -105,6 +108,7 @@
             "minecraft:spider",
 			"minecraft:witch"
 		],
+        "onjoin": true,
         "result": "default"
     },
     {
@@ -161,6 +165,7 @@
 	},
     {
 		"dimension": 0,
+		"random":0.1,
 		"mintime":6000,
 		"maxtime":12000,
         "mincount":{
@@ -177,7 +182,7 @@
 	},
     {
 		"dimension": 0,
-        "random": 0.05,
+		"random":0.1,
         "mintime":13800,
         "maxtime":22000,
         "mincount":{
@@ -247,8 +252,7 @@
 	},
 	{
 		"dimension": 0,
-        "random": 0.25,
-		"biome": ["Desert", "Mesa"],
+		"biome": ["Desert", "Mesa", "DesertHills"],
 		"mob": [
 			"iceandfire:deathworm",
 			"mocreatures:manticore",
@@ -378,7 +382,7 @@
 	},
 	{
 		"dimension": 0,
-		"biome": ["Savanna","Tropical Savanna"],
+		"biome": ["Savanna","Tropical Savanna", "SavannaEdge"],
         "random": 0.1,
 		"mob": [
 			"mocreatures:elephant",
