@@ -1,0 +1,18 @@
+setTitle("The Way of the Magic User II")
+
+setIcon("ebwizardry:wizard_handbook")
+
+setDescription("Continue your magical education by crafting the Wizard's Handbook! (See JEI for the crafting recipe)")
+
+setParent("triumph:adventurequest/wizard")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("wizard_handbook", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:wizard_handbook")
+
+//Rewards
+setRewardExperience(16)
+

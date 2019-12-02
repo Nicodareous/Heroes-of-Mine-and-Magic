@@ -1,0 +1,112 @@
+{
+  "triumph:vanilla/recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_recipe_unlocked": {
+    "criteria": {
+      "unlocked_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2019-12-01 17:05:52 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_left_click_block": {
+    "criteria": {
+      "clickedBlock": "2019-12-01 17:28:41 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "swampland": "2019-12-01 17:06:41 -0600",
+      "plains": "2019-12-01 17:06:32 -0600",
+      "roofed_forest": "2019-12-01 17:05:52 -0600"
+    },
+    "done": false
+  },
+  "triumph:adventurequest/bed": {
+    "criteria": {
+      "Completed Adventurer\u0027s Quest§r": "2019-12-01 17:05:52 -0600"
+    },
+    "done": false
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:adventurequest/root": {
+    "criteria": {
+      "inventoryChange": "2019-12-01 17:05:52 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_placed_block": {
+    "criteria": {
+      "placedDirt": "2019-12-01 17:43:06 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_break_block": {
+    "criteria": {
+      "brokeLog": "2019-12-01 17:09:05 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/root": {
+    "criteria": {
+      "killed_something": "2019-12-01 17:45:22 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-12-01 17:29:57 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_location_worldtype": {
+    "criteria": {
+      "superflat": "2019-12-01 17:05:52 -0600"
+    },
+    "done": true
+  }
+}

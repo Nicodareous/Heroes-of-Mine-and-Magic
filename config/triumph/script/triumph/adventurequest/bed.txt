@@ -1,0 +1,17 @@
+setTitle("A Place to Rest")
+
+setIcon("minecraft:bed")
+
+setDescription("Find sheep wandering the plains for their wool, then craft a bed to meet this achievement.")
+
+setParent("triumph:adventurequest/root")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("bed", "minecraft:inventory_changed")
+criteria.addItem("minecraft:bed")
+
+//Rewards
+setRewardExperience(16)

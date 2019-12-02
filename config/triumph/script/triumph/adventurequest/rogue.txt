@@ -1,0 +1,18 @@
+setTitle("The Way of the Rogue")
+
+setIcon("minecraft:bow")
+
+setDescription("Conquer your enemy with wit and guile! To start on this path, craft a bow.")
+
+setParent("triumph:adventurequest/bed")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("bow", "minecraft:inventory_changed")
+criteria.addItem("minecraft:bow")
+
+//Rewards
+setRewardExperience(16)
+

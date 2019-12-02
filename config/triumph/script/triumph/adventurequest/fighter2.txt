@@ -1,0 +1,18 @@
+setTitle("The Way of the Fighter II")
+
+setIcon("minecraft:iron_ingot")
+
+setDescription("You'll need some decent weaponry to take on the monsters of this world! Find iron to upgrade your weaponry and armor. Beware! The caverns of this world are quite deadly.")
+
+setParent("triumph:adventurequest/fighter")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("iron", "minecraft:inventory_changed")
+criteria.addItem("minecraft:iron_ingot")
+
+//Rewards
+setRewardExperience(16)
+

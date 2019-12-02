@@ -1,0 +1,18 @@
+setTitle("The Way of the Magic User III")
+
+setIcon("ebwizardry:magic_wand")
+
+setDescription("Craft your first wand to store spells and mana.")
+
+setParent("triumph:adventurequest/wizard2")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("magic_wand", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:magic_wand")
+
+//Rewards
+setRewardExperience(16)
+

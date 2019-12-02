@@ -1,0 +1,18 @@
+setTitle("The Way of the Rogue II")
+
+setIcon("locks:lock_pick")
+
+setDescription("What would a rogue be without a trusty set of lockpicks? Many chests and doors throughout the world are locked. Craft, find, or buy a lockpick to continue.")
+
+setParent("triumph:adventurequest/rogue")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("lock_pick", "minecraft:inventory_changed")
+criteria.addItem("locks:lock_pick")
+
+//Rewards
+setRewardExperience(16)
+

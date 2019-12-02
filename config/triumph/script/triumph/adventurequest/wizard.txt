@@ -1,0 +1,18 @@
+setTitle("The Way of the Magic User")
+
+setIcon("ebwizardry:crystal_shard")
+
+setDescription("To learn the way of the magic user, you'll need to find a few crystal shards to start. Find shards by collecting crystal flowers, finding crystale ore, or trading with wizards.")
+
+setParent("triumph:adventurequest/bed")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("crystal_shard", "minecraft:inventory_changed")
+criteria.addItem("ebwizardry:crystal_shard")
+
+//Rewards
+setRewardExperience(16)
+

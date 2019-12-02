@@ -1,0 +1,19 @@
+setTitle("The Way of the Fighter")
+
+setIcon("minecraft:stone_sword")
+
+setDescription("To begin your adventure, you'll need some gear! The caverns are dangerous, so craft a stone sword to start.")
+
+setParent("triumph:adventurequest/bed")
+setRequiresParent(true)
+
+setRequirements("any")
+
+//Criteria
+criteria = addCriteria("stone_sword", "minecraft:inventory_changed")
+criteria.addItem("minecraft:stone_sword")
+
+//Rewards
+setRewardExperience(16)
+
+setPos(64,0)
