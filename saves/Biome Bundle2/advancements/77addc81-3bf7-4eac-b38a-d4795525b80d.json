@@ -1,0 +1,87 @@
+{
+  "triumph:vanilla/recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_recipe_unlocked": {
+    "criteria": {
+      "unlocked_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2019-12-02 20:58:01 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-12-02 20:58:01 -0600",
+      "deep_ocean": "2019-12-02 20:59:40 -0600",
+      "beaches": "2019-12-02 21:02:45 -0600",
+      "plains": "2019-12-02 21:02:46 -0600",
+      "ocean": "2019-12-02 20:59:01 -0600",
+      "extreme_hills": "2019-12-02 21:21:12 -0600",
+      "river": "2019-12-02 21:02:44 -0600",
+      "stone_beach": "2019-12-02 20:58:50 -0600"
+    },
+    "done": false
+  },
+  "triumph:adventurequest/bed": {
+    "criteria": {
+      "Completed Adventurer\u0027s Quest§r": "2019-12-02 20:58:01 -0600"
+    },
+    "done": false
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:adventurequest/root": {
+    "criteria": {
+      "inventoryChange": "2019-12-02 20:58:01 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2019-12-02 20:57:58 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_biome": {
+    "criteria": {
+      "entered_forest": "2019-12-02 20:58:01 -0600"
+    },
+    "done": true
+  }
+}

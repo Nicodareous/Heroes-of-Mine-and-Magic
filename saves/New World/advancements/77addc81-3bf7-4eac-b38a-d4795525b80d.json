@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "triumph:adventurequest/fighter": {
+    "criteria": {
+      "Completed A Place to Rest§r": "2019-12-01 22:03:14 -0600"
+    },
+    "done": false
+  },
   "triumph:example/root": {
     "criteria": {
       "location": "2019-12-01 17:05:52 -0600"
@@ -26,6 +32,12 @@
   "triumph:example/example_left_click_block": {
     "criteria": {
       "clickedBlock": "2019-12-01 17:28:41 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_the_recipe": "2019-12-01 17:05:47 -0600"
     },
     "done": true
   },
@@ -39,17 +51,30 @@
   },
   "triumph:adventurequest/bed": {
     "criteria": {
+      "bed": "2019-12-01 22:03:14 -0600",
       "Completed Adventurer\u0027s Quest§r": "2019-12-01 17:05:52 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/root": {
+    "criteria": {
+      "crafting_table": "2019-12-01 21:32:45 -0600"
+    },
+    "done": true
+  },
+  "triumph:example/example_completed_advancement": {
+    "criteria": {
+      "brokeNetherrack": "2019-12-01 22:06:35 -0600"
     },
     "done": false
   },
-  "triumph:vanilla/recipes/brewing/magma_cream": {
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_the_recipe": "2019-12-01 17:05:47 -0600"
     },
     "done": true
   },
-  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
     "criteria": {
       "has_the_recipe": "2019-12-01 17:05:47 -0600"
     },
@@ -61,7 +86,13 @@
     },
     "done": true
   },
-  "triumph:vanilla/recipes/brewing/glass_bottle": {
+  "triumph:adventurequest/wizard": {
+    "criteria": {
+      "Completed A Place to Rest§r": "2019-12-01 22:03:14 -0600"
+    },
+    "done": false
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
     "criteria": {
       "has_the_recipe": "2019-12-01 17:05:47 -0600"
     },
@@ -73,17 +104,17 @@
     },
     "done": true
   },
-  "triumph:vanilla/recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_the_recipe": "2019-12-01 17:05:47 -0600"
-    },
-    "done": true
-  },
   "triumph:vanilla/recipes/brewing/cauldron": {
     "criteria": {
       "has_the_recipe": "2019-12-01 17:05:47 -0600"
     },
     "done": true
+  },
+  "triumph:adventurequest/rogue": {
+    "criteria": {
+      "Completed A Place to Rest§r": "2019-12-01 22:03:14 -0600"
+    },
+    "done": false
   },
   "triumph:example/example_break_block": {
     "criteria": {
@@ -97,15 +128,21 @@
     },
     "done": true
   },
-  "triumph:vanilla/story/mine_stone": {
+  "triumph:example/example_destroy_block": {
     "criteria": {
-      "get_stone": "2019-12-01 17:29:57 -0600"
+      "destroyedBlock": "2019-12-01 22:06:35 -0600"
     },
     "done": true
   },
   "triumph:example/example_location_worldtype": {
     "criteria": {
       "superflat": "2019-12-01 17:05:52 -0600"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-12-01 17:29:57 -0600"
     },
     "done": true
   }

@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-01T23:55:47.3101838Z",
+  "lastPlayed": "2019-12-03T02:54:52.8231472Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -856,21 +856,6 @@
       "fileSize": 95850
     },
     {
-      "folderName": "NaturesCompass-1.12.2-1.6.0.jar",
-      "fingerprint": 1587289697,
-      "fileDateHash": 2813240215,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1587289697
-      ],
-      "status": 1,
-      "timestamp": "2019-12-01T03:56:44.5327453Z",
-      "lastWriteTimeUtc": "2019-11-25T21:25:38.4573248Z",
-      "queryTimestamp": "2019-12-01T03:56:45.9297029Z",
-      "fileCount": 1,
-      "fileSize": 189237
-    },
-    {
       "folderName": "mysticallib-1.12.2-1.4.0.jar",
       "fingerprint": 776734229,
       "fileDateHash": 2434626194,
@@ -884,6 +869,21 @@
       "queryTimestamp": "2019-12-01T03:56:45.9297029Z",
       "fileCount": 1,
       "fileSize": 355287
+    },
+    {
+      "folderName": "NaturesCompass-1.12.2-1.6.0.jar",
+      "fingerprint": 1587289697,
+      "fileDateHash": 2813240215,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1587289697
+      ],
+      "status": 1,
+      "timestamp": "2019-12-01T03:56:44.5327453Z",
+      "lastWriteTimeUtc": "2019-11-25T21:25:38.4573248Z",
+      "queryTimestamp": "2019-12-01T03:56:45.9297029Z",
+      "fileCount": 1,
+      "fileSize": 189237
     },
     {
       "folderName": "IvToolkit-1.3.3-1.12.jar",
@@ -1796,21 +1796,6 @@
       "fileSize": 447874
     },
     {
-      "folderName": "RecurrentComplex-1.4.8.2.jar",
-      "fingerprint": 2120690174,
-      "fileDateHash": 3679162151,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2120690174
-      ],
-      "status": 1,
-      "timestamp": "2019-12-01T03:56:44.5357448Z",
-      "lastWriteTimeUtc": "2019-11-25T21:15:41.4821988Z",
-      "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
-      "fileCount": 1,
-      "fileSize": 7076645
-    },
-    {
       "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
       "fingerprint": 1245112832,
       "fileDateHash": 4038858786,
@@ -1824,6 +1809,21 @@
       "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
       "fileCount": 1,
       "fileSize": 132644
+    },
+    {
+      "folderName": "RecurrentComplex-1.4.8.2.jar",
+      "fingerprint": 2120690174,
+      "fileDateHash": 3679162151,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2120690174
+      ],
+      "status": 1,
+      "timestamp": "2019-12-01T03:56:44.5357448Z",
+      "lastWriteTimeUtc": "2019-11-25T21:15:41.4821988Z",
+      "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
+      "fileCount": 1,
+      "fileSize": 7076645
     },
     {
       "folderName": "tellme-1.12.2-0.7.0-dev.20190610.165828.jar",
@@ -2512,7 +2512,7 @@
       "dateInstalled": "2019-12-01T18:34:26.7864687Z",
       "dateUpdated": "2019-12-01T18:34:26.7914664Z",
       "dateLastUpdateAttempted": "2019-12-01T18:34:26.7914664Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2521,7 +2521,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 257356,
@@ -2824,7 +2824,7 @@
       "dateInstalled": "2019-12-01T03:56:46.9406718Z",
       "dateUpdated": "2019-12-01T04:03:50.6908833Z",
       "dateLastUpdateAttempted": "2019-12-01T04:03:50.6908833Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2833,7 +2833,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227874,
@@ -4299,6 +4299,81 @@
       "installedTargets": null
     },
     {
+      "addonID": 310992,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2758430,
+        "displayName": "VerticalDimensionStack-1.12.2-0.1.5.jar",
+        "fileName": "VerticalDimensionStack-1.12.2-0.1.5.jar",
+        "fileDate": "2019-08-10T02:51:17.42Z",
+        "fileLength": 199442,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2758/430/VerticalDimensionStack-1.12.2-0.1.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 229208,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4131863688,
+            "type": 0
+          },
+          {
+            "foldername": "cd4017be",
+            "fingerprint": 1627648475,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1987111919,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2828012276,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 124834458,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "VerticalDimensionStack-1.12.2-0.1.5.jar"
+      },
+      "dateInstalled": "2019-12-03T02:10:47.3791981Z",
+      "dateUpdated": "2019-12-03T02:10:47.3821981Z",
+      "dateLastUpdateAttempted": "2019-12-03T02:10:47.3821981Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 231347,
       "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
       "installedFile": {
@@ -4601,7 +4676,7 @@
       "dateInstalled": "2019-11-10T03:06:43.654207Z",
       "dateUpdated": "2019-11-10T03:06:43.6642075Z",
       "dateLastUpdateAttempted": "2019-11-10T03:06:43.6642075Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4759,7 +4834,7 @@
       "dateInstalled": "2019-12-01T18:40:19.7774662Z",
       "dateUpdated": "2019-12-01T18:40:19.7814661Z",
       "dateLastUpdateAttempted": "2019-12-01T18:40:19.7814661Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4768,7 +4843,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 264231,
@@ -5282,7 +5357,7 @@
       "dateInstalled": "2019-11-10T02:40:20.520747Z",
       "dateUpdated": "2019-12-01T03:53:52.5128277Z",
       "dateLastUpdateAttempted": "2019-12-01T03:53:52.5128277Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5639,6 +5714,74 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 229208,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2820611,
+        "displayName": "CD4017BE_lib-1.12.2-6.4.13.jar",
+        "fileName": "CD4017BE_lib-1.12.2-6.4.13.jar",
+        "fileDate": "2019-11-02T10:45:30.507Z",
+        "fileLength": 620442,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2820/611/CD4017BE_lib-1.12.2-6.4.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3346751152,
+            "type": 0
+          },
+          {
+            "foldername": "cd4017be",
+            "fingerprint": 2763893670,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1425625839,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2403443443,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 4071793493,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CD4017BE_lib-1.12.2-6.4.13.jar"
+      },
+      "dateInstalled": "2019-12-03T02:10:47.133629Z",
+      "dateUpdated": "2019-12-03T02:10:47.140629Z",
+      "dateLastUpdateAttempted": "2019-12-03T02:10:47.140629Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 255389,
@@ -6069,7 +6212,7 @@
       "dateInstalled": "2019-11-30T22:40:45.5655002Z",
       "dateUpdated": "2019-11-30T22:40:45.5804719Z",
       "dateLastUpdateAttempted": "2019-11-30T22:40:45.5804719Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6078,7 +6221,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224770,
@@ -6142,7 +6285,7 @@
       "dateInstalled": "2019-11-10T02:45:56.7052039Z",
       "dateUpdated": "2019-12-01T03:53:59.5986048Z",
       "dateLastUpdateAttempted": "2019-12-01T03:53:59.5986048Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7691,7 +7834,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278882,
@@ -8787,7 +8930,7 @@
       "dateInstalled": "2019-11-30T22:40:45.7297145Z",
       "dateUpdated": "2019-11-30T22:40:45.7356938Z",
       "dateLastUpdateAttempted": "2019-11-30T22:40:45.7356938Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8796,7 +8939,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253874,
@@ -8859,7 +9002,7 @@
       "dateInstalled": "2019-12-01T03:53:44.5588556Z",
       "dateUpdated": "2019-12-01T03:53:44.563853Z",
       "dateLastUpdateAttempted": "2019-12-01T03:53:44.563853Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8868,7 +9011,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 322948,
@@ -9008,7 +9151,7 @@
       "dateInstalled": "2019-11-10T02:47:42.465331Z",
       "dateUpdated": "2019-12-01T03:53:50.6008801Z",
       "dateLastUpdateAttempted": "2019-12-01T03:53:50.6008801Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10072,7 +10215,7 @@
       "dateInstalled": "2019-12-01T18:40:19.5140371Z",
       "dateUpdated": "2019-12-01T18:40:19.5180348Z",
       "dateLastUpdateAttempted": "2019-12-01T18:40:19.5180348Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10081,7 +10224,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243363,
@@ -10145,7 +10288,7 @@
       "dateInstalled": "2019-11-10T02:47:07.0657056Z",
       "dateUpdated": "2019-11-21T21:40:35.4591012Z",
       "dateLastUpdateAttempted": "2019-11-21T21:40:35.4591012Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10457,6 +10600,73 @@
       "dateInstalled": "2019-11-25T21:25:38.4573248Z",
       "dateUpdated": "2019-11-25T21:25:38.459326Z",
       "dateLastUpdateAttempted": "2019-11-25T21:25:38.459326Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238372,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2595310,
+        "displayName": "Neat 1.4-17.jar",
+        "fileName": "Neat 1.4-17.jar",
+        "fileDate": "2018-07-30T23:34:03.487Z",
+        "fileLength": 18527,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2595/310/Neat 1.4-17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3517812427,
+            "type": 0
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 1010376498,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 453550318,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1959918163,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 851629213,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Neat 1.4-17.jar"
+      },
+      "dateInstalled": "2019-11-10T02:55:02.4354945Z",
+      "dateUpdated": "2019-11-10T02:55:02.4394935Z",
+      "dateLastUpdateAttempted": "2019-11-10T02:55:02.4394935Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -10531,73 +10741,6 @@
       "dateInstalled": "2019-11-25T21:14:41.6694888Z",
       "dateUpdated": "2019-11-25T21:14:41.6844868Z",
       "dateLastUpdateAttempted": "2019-11-25T21:14:41.6844868Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 238372,
-      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
-      "installedFile": {
-        "id": 2595310,
-        "displayName": "Neat 1.4-17.jar",
-        "fileName": "Neat 1.4-17.jar",
-        "fileDate": "2018-07-30T23:34:03.487Z",
-        "fileLength": 18527,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2595/310/Neat 1.4-17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3517812427,
-            "type": 0
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 1010376498,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 453550318,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1959918163,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 851629213,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Neat 1.4-17.jar"
-      },
-      "dateInstalled": "2019-11-10T02:55:02.4354945Z",
-      "dateUpdated": "2019-11-10T02:55:02.4394935Z",
-      "dateLastUpdateAttempted": "2019-11-10T02:55:02.4394935Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -10838,6 +10981,84 @@
       "installedTargets": null
     },
     {
+      "addonID": 278494,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2831558,
+        "displayName": "FoamFix 0.10.9 (1.12.2)",
+        "fileName": "foamfix-0.10.9-1.12.2.jar",
+        "fileDate": "2019-11-23T21:46:27.69Z",
+        "fileLength": 201719,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2831/558/foamfix-0.10.9-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2826518746,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_at.cfg",
+            "fingerprint": 2590909010,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_runtime_at.cfg",
+            "fingerprint": 2504249573,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4069919274,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3033825429,
+            "type": 0
+          },
+          {
+            "foldername": "pl",
+            "fingerprint": 995354786,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2271483576,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "foamfix-0.10.9-1.12.2.jar"
+      },
+      "dateInstalled": "2019-11-11T03:16:15.227203Z",
+      "dateUpdated": "2019-11-24T15:22:45.4408506Z",
+      "dateLastUpdateAttempted": "2019-11-24T15:22:45.4408506Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 311357,
       "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
       "installedFile": {
@@ -11002,84 +11223,6 @@
       "dateInstalled": "2019-11-10T02:52:34.1771965Z",
       "dateUpdated": "2019-11-10T02:52:34.194172Z",
       "dateLastUpdateAttempted": "2019-11-10T02:52:34.194172Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 278494,
-      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
-      "installedFile": {
-        "id": 2831558,
-        "displayName": "FoamFix 0.10.9 (1.12.2)",
-        "fileName": "foamfix-0.10.9-1.12.2.jar",
-        "fileDate": "2019-11-23T21:46:27.69Z",
-        "fileLength": 201719,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2831/558/foamfix-0.10.9-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2826518746,
-            "type": 0
-          },
-          {
-            "foldername": "foamfix_at.cfg",
-            "fingerprint": 2590909010,
-            "type": 0
-          },
-          {
-            "foldername": "foamfix_runtime_at.cfg",
-            "fingerprint": 2504249573,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4069919274,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3033825429,
-            "type": 0
-          },
-          {
-            "foldername": "pl",
-            "fingerprint": 995354786,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2271483576,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "foamfix-0.10.9-1.12.2.jar"
-      },
-      "dateInstalled": "2019-11-11T03:16:15.227203Z",
-      "dateUpdated": "2019-11-24T15:22:45.4408506Z",
-      "dateLastUpdateAttempted": "2019-11-24T15:22:45.4408506Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
