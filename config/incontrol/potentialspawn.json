@@ -7,7 +7,7 @@
 		  "minecraft:dirt",
 		  "minecraft:sand@1"
 		],
-		"random":0.4,
+		"random":0.1,
 		"biome": [
 		  "Plains",
 		  "Forest",
@@ -17,7 +17,8 @@
           "Flower Forest",
           "Redwood Forest",
           "ForestConifer",
-		  "Roofed Forest"
+		  "Roofed Forest",
+		  "ForestEnchanted"
 		],
 		"mobs": [
 		  {
@@ -61,9 +62,15 @@
 			"weight": 10,
 			"groupcountmin": 1,
 			"groupcountmax": 2
+		  },
+		  {
+			"mob": "iceandfire:if_pixie",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 4
 		  }
 		]
-    },    
+    },   
     {
         "structure": "WitchMansion2C2R2",
         "mobs": [
@@ -386,6 +393,106 @@
             }
         ]
   },
+    {
+		"dimension": 0,
+		"biome": ["Arctic", "Glacier", "Ice Plains"],
+        "random":0.5,
+        "mobs": [
+            {
+                "mob": "twilightforest:penguin",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+  {
+		"dimension": 0,
+		"biome": ["Arctic", "Glacier", "Ice Plains"],
+        "random":0.1,
+        "mobs": [
+            {
+                "mob": "lycanitesmobs:yeti",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "lycanitesmobs:arix",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "lycanitesmobs:serpix",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "lycanitesmobs:reiver",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "minecraft:polar_bear",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+    {
+		"dimension": 0,
+		"biome": ["Cold Taiga", "Frozen Forest", "SnowyPlains"],
+        "random":0.5,
+        "mobs": [
+            {
+                "mob": "minecraft:rabbit",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "mocreatures:fox",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "mocreatures:raccoon",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "minecraft:wolf",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+			{
+                "mob": "mocreatures:boar",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
+      {
+		"dimension": 0,
+		"biome": ["Cold Taiga", "Frozen Forest", "SnowyPlains"],
+        "random":0.1,
+        "mobs": [
+            {
+                "mob": "lycanitesmobs:wendigo",
+                "weight": 1,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+  },
   {
 		"dimension": 0,
         "random": 0.15,
@@ -530,5 +637,23 @@
 			"groupcountmax": 3
 		  }
 		]
-  }
+  },
+      {
+		"dimension": 0,
+		"random": 0.5,
+		"mobs": [
+		  {
+			"mob": "mocreatures:shark",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  },
+		  {
+			"mob": "mocreatures:stingray",
+			"weight": 1,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+	}
 ]

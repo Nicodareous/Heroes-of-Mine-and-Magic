@@ -420,6 +420,35 @@
         "onjoin": true,
 		"result": "allow"
 	},
+		{
+		"dimension": -11325,
+		"mob": [
+			"mocreatures:caveogre",
+			"mocreatures:wraith",
+			"goblin_mod_reforged:goblin",
+			"lycanitesmobs:spectre",
+			"lycanitesmobs:epion",
+			"lycanitesmobs:chupacabra",
+			"lycanitesmobs:beholder",
+			"lycanitesmobs:jabberwock",
+			"lycanitesmobs:ettin",
+			"lycanitesmobs:geonach",
+			"lycanitesmobs:morock",
+			"lycanitesmobs:quillbeast",
+			"lycanitesmobs:shade",
+			"lycanitesmobs:eechetik",
+			"iceandfire:if_troll",
+			"iceandfire:icedragon"
+		],
+		"onjoin": true,
+		"result": "allow"
+	},
+	{
+		"dimension": -11325,
+		"onjoin": true,
+		"spawner": false,
+		"result": "deny"
+	},
 	{
 		"mob": [
 			"minecraft:creeper",
