@@ -1,4 +1,4 @@
-<book title="Adventurer's Guide to the Overworld" cover="gbook:demo" fontSize="0.6" home="0:0"
+<book title="Adventurer's Guide to the Overworld" cover="minecraft:book" fontSize="0.6" home="0:0"
       xmlns="http://localhost/gbook/base"
       xmlns:minecraft="http://localhost/gbook/minecraft-addons">
 
@@ -12,7 +12,11 @@
 			<link ref="adventure">Adventurer's Quest</link>
         </section>
 		<section id="intro">
+<<<<<<< HEAD
 			<title>Introduction<title>
+=======
+			<title>Introduction</title>
+>>>>>>> 2fbd7f0f9f1e19807b432781a3e5fbc85278c474
 			<p>Welcome to the world of Heroes of Mine and Magic!</p>
 			<p>Quick start: Press the 'L' key to see the advancement quests.</p>
 			<p>At first glance, the world may appear similar to what you're used to, but many aspects of the world are far different from vanilla minecraft.</p>
@@ -21,8 +25,13 @@
 			<p>See the Aventurer's Quest section for information about the first "stage".</p>
 		</section>
 		<section id="land">
+<<<<<<< HEAD
 			<title>Landscape<title>
 			<p>Different areas of the world harbor different dangers. This section of the guide will aquaint you with various biomes and lands you may encounter on your travels.<p>
+=======
+			<title>Landscape</title>
+			<p>Different areas of the world harbor different dangers. This section of the guide will aquaint you with various biomes and lands you may encounter on your travels.</p>
+>>>>>>> 2fbd7f0f9f1e19807b432781a3e5fbc85278c474
 			<p bold="true">Plains, Highlands, Autumnal Woods:</p>
 			<p>These areas of the world are peaceful and serene. Few monsters roam these biomes and they are mostly populated with herd animals, such as sheep and cows.</p>
 			<p bold="true">Forests, Tundra, and Taiga:</p>
@@ -39,7 +48,11 @@
 			<p>The caves of this world grow more dangerous the further down one delves. The caverns don't end at bedrock, at the lowest depths, an adventure will find themselves in the Deep Dark, a place of ancient dwarven ruins and dark elven fotresses. Shadowy monstrosities roam the cavernous plains, but great riches also await.</p>
 		</section>
 		<section id="progress">
+<<<<<<< HEAD
 			<title>Progression<title>
+=======
+			<title>Progression</title>
+>>>>>>> 2fbd7f0f9f1e19807b432781a3e5fbc85278c474
 			<p>Press 'L' to see the quests and advancements. Although you may come across many other quests in the overworld, the quests here can be thought of as your "Main quests"</p>
 			<p>There are several sets of advancement stages. To pursue advancements to the next stage, accomplish quests with a blue background.</p>
 			<p>Side advancements (non-blue) are working doing too! Each quest will reward you with experience and items.</p>
@@ -51,6 +64,7 @@
 			<p>Taverns and inns dot the land and hold various tradesmen and quest-givers. These are also the best places to rent a room, rest, and store goods.</p>
 			<p>Traveling stones (waypoints) are found at all inns and most dungeons.</p>
 		</section>
+<<<<<<< HEAD
         <section condition="test1">
             <p scale="1.0">Left</p>
             <p align="center">Center</p>
@@ -202,5 +216,7 @@
                 libero quis ullamcorper. Nam lacinia erat at dui dignissim elementum.
             </p>
         </section>
+=======
+>>>>>>> 2fbd7f0f9f1e19807b432781a3e5fbc85278c474
     </chapter>
 </book>
