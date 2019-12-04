@@ -90,6 +90,12 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:seat
+quark:chest_passenger
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -97,13 +103,7 @@ quark:ashen
 quark:frog
 quark:crab
 quark:wraith
-quark:chest_passenger
 quark:gravisand
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:seat
 betternether:firefly
 betterwithmods:longboi
 betterwithmods:extending_rope

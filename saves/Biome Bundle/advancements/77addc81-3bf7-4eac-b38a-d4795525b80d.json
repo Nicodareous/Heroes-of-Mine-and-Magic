@@ -1,144 +1,93 @@
 {
   "triumph:vanilla/recipes/brewing/speckled_melon": {
     "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:example/example_recipe_unlocked": {
     "criteria": {
-      "unlocked_recipe": "2019-11-30 22:30:57 -0600"
+      "unlocked_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:vanilla/recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
-    },
-    "done": true
-  },
-  "triumph:adventurequest/fighter": {
-    "criteria": {
-      "Completed A Place to Rest§r": "2019-12-01 10:40:09 -0600",
-      "stone_sword": "2019-12-01 10:40:55 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:example/root": {
     "criteria": {
-      "location": "2019-11-30 22:31:00 -0600"
+      "location": "2019-12-03 17:13:11 -0600"
     },
     "done": true
   },
   "triumph:example/example_left_click_block": {
     "criteria": {
-      "clickedBlock": "2019-12-01 11:37:48 -0600"
-    },
-    "done": true
-  },
-  "triumph:vanilla/recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
+      "clickedBlock": "2019-12-03 17:15:13 -0600"
     },
     "done": true
   },
   "triumph:vanilla/adventure/adventuring_time": {
     "criteria": {
-      "birch_forest": "2019-11-30 22:31:56 -0600",
-      "plains": "2019-12-01 17:02:25 -0600",
-      "birch_forest_hills": "2019-12-01 17:02:23 -0600",
-      "extreme_hills": "2019-12-01 11:19:36 -0600",
-      "roofed_forest": "2019-12-01 13:01:00 -0600",
-      "jungle": "2019-11-30 22:32:07 -0600",
-      "river": "2019-12-01 17:00:34 -0600"
+      "forest": "2019-12-03 17:13:22 -0600",
+      "plains": "2019-12-03 17:13:11 -0600"
     },
     "done": false
   },
   "triumph:adventurequest/bed": {
     "criteria": {
-      "bed": "2019-12-01 10:40:09 -0600",
-      "Completed Adventurer\u0027s Quest§r": "2019-12-01 12:48:02 -0600"
+      "Completed Adventurer\u0027s Quest§r": "2019-12-03 17:13:11 -0600"
+    },
+    "done": false
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
-    },
-    "done": true
-  },
-  "triumph:vanilla/recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:adventurequest/root": {
     "criteria": {
-      "inventoryChange": "2019-11-30 22:31:00 -0600"
+      "inventoryChange": "2019-12-03 17:13:11 -0600"
     },
     "done": true
   },
-  "triumph:adventurequest/wizard": {
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
     "criteria": {
-      "crystal_shard": "2019-12-01 10:43:02 -0600",
-      "Completed A Place to Rest§r": "2019-12-01 10:40:09 -0600"
-    },
-    "done": true
-  },
-  "triumph:adventurequest/fighter2": {
-    "criteria": {
-      "iron": "2019-12-01 10:41:08 -0600",
-      "Completed The Way of the Fighter§r": "2019-12-01 10:40:55 -0600"
-    },
-    "done": true
-  },
-  "triumph:vanilla/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2019-12-01 16:51:29 -0600"
-    },
-    "done": true
-  },
-  "triumph:vanilla/story/smelt_iron": {
-    "criteria": {
-      "iron": "2019-12-01 10:41:08 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:vanilla/recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:vanilla/recipes/brewing/cauldron": {
     "criteria": {
-      "has_the_recipe": "2019-11-30 22:30:57 -0600"
-    },
-    "done": true
-  },
-  "triumph:adventurequest/rogue": {
-    "criteria": {
-      "Completed A Place to Rest§r": "2019-12-01 12:48:02 -0600"
-    },
-    "done": false
-  },
-  "triumph:example/example_break_block": {
-    "criteria": {
-      "brokeLog": "2019-12-01 11:14:10 -0600"
+      "has_the_recipe": "2019-12-03 17:13:07 -0600"
     },
     "done": true
   },
   "triumph:vanilla/adventure/root": {
     "criteria": {
-      "killed_something": "2019-12-01 11:56:42 -0600"
+      "killed_something": "2019-12-03 17:14:42 -0600"
     },
     "done": true
   },
-  "triumph:adventurequest/wizard2": {
+  "triumph:example/example_enter_biome": {
     "criteria": {
-      "Completed The Way of the Magic User§r": "2019-12-01 12:48:02 -0600"
+      "entered_forest": "2019-12-03 17:13:22 -0600"
     },
-    "done": false
+    "done": true
   }
 }

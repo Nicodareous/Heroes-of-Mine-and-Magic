@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-03T02:54:52.8231472Z",
+  "lastPlayed": "2019-12-03T23:02:33.7753309Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1796,21 +1796,6 @@
       "fileSize": 447874
     },
     {
-      "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
-      "fingerprint": 1245112832,
-      "fileDateHash": 4038858786,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1245112832
-      ],
-      "status": 1,
-      "timestamp": "2019-11-10T14:05:37.5361959Z",
-      "lastWriteTimeUtc": "2019-11-10T13:44:33.1302038Z",
-      "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
-      "fileCount": 1,
-      "fileSize": 132644
-    },
-    {
       "folderName": "RecurrentComplex-1.4.8.2.jar",
       "fingerprint": 2120690174,
       "fileDateHash": 3679162151,
@@ -1824,6 +1809,21 @@
       "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
       "fileCount": 1,
       "fileSize": 7076645
+    },
+    {
+      "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
+      "fingerprint": 1245112832,
+      "fileDateHash": 4038858786,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1245112832
+      ],
+      "status": 1,
+      "timestamp": "2019-11-10T14:05:37.5361959Z",
+      "lastWriteTimeUtc": "2019-11-10T13:44:33.1302038Z",
+      "queryTimestamp": "2019-12-01T03:56:45.9447026Z",
+      "fileCount": 1,
+      "fileSize": 132644
     },
     {
       "folderName": "tellme-1.12.2-0.7.0-dev.20190610.165828.jar",
@@ -3499,6 +3499,116 @@
       "installedTargets": null
     },
     {
+      "addonID": 300890,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2797426,
+        "displayName": "Metallurgy-4-Reforged-0.2.3",
+        "fileName": "Metallurgy-4-Reforged-0.2.3.jar",
+        "fileDate": "2019-09-28T15:44:05.513Z",
+        "fileLength": 1437757,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2797/426/Metallurgy-4-Reforged-0.2.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 266515,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 287683,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3469055080,
+            "type": 0
+          },
+          {
+            "foldername": "it",
+            "fingerprint": 1744400129,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2451724830,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1492317871,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2254112987,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 780074417,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Metallurgy-4-Reforged-0.2.3.jar"
+      },
+      "dateInstalled": "2019-12-03T22:50:16.5486731Z",
+      "dateUpdated": "2019-12-03T22:50:16.5666736Z",
+      "dateLastUpdateAttempted": "2019-12-03T22:50:16.5666736Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 245755,
       "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
       "installedFile": {
@@ -4371,7 +4481,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231347,
@@ -4834,7 +4944,7 @@
       "dateInstalled": "2019-12-01T18:40:19.7774662Z",
       "dateUpdated": "2019-12-01T18:40:19.7814661Z",
       "dateLastUpdateAttempted": "2019-12-01T18:40:19.7814661Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5781,7 +5891,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 255389,
@@ -7825,7 +7935,7 @@
       "dateInstalled": "2019-12-01T23:55:28.2275842Z",
       "dateUpdated": "2019-12-01T23:55:28.2325404Z",
       "dateLastUpdateAttempted": "2019-12-01T23:55:28.2325404Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10215,7 +10325,7 @@
       "dateInstalled": "2019-12-01T18:40:19.5140371Z",
       "dateUpdated": "2019-12-01T18:40:19.5180348Z",
       "dateLastUpdateAttempted": "2019-12-01T18:40:19.5180348Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10612,73 +10722,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 238372,
-      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
-      "installedFile": {
-        "id": 2595310,
-        "displayName": "Neat 1.4-17.jar",
-        "fileName": "Neat 1.4-17.jar",
-        "fileDate": "2018-07-30T23:34:03.487Z",
-        "fileLength": 18527,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2595/310/Neat 1.4-17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3517812427,
-            "type": 0
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 1010376498,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 453550318,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1959918163,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 851629213,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Neat 1.4-17.jar"
-      },
-      "dateInstalled": "2019-11-10T02:55:02.4354945Z",
-      "dateUpdated": "2019-11-10T02:55:02.4394935Z",
-      "dateLastUpdateAttempted": "2019-11-10T02:55:02.4394935Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 225561,
       "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
       "installedFile": {
@@ -10741,6 +10784,73 @@
       "dateInstalled": "2019-11-25T21:14:41.6694888Z",
       "dateUpdated": "2019-11-25T21:14:41.6844868Z",
       "dateLastUpdateAttempted": "2019-11-25T21:14:41.6844868Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238372,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2595310,
+        "displayName": "Neat 1.4-17.jar",
+        "fileName": "Neat 1.4-17.jar",
+        "fileDate": "2018-07-30T23:34:03.487Z",
+        "fileLength": 18527,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2595/310/Neat 1.4-17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3517812427,
+            "type": 0
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 1010376498,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 453550318,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1959918163,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 851629213,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Neat 1.4-17.jar"
+      },
+      "dateInstalled": "2019-11-10T02:55:02.4354945Z",
+      "dateUpdated": "2019-11-10T02:55:02.4394935Z",
+      "dateLastUpdateAttempted": "2019-11-10T02:55:02.4394935Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -10981,84 +11091,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 278494,
-      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
-      "installedFile": {
-        "id": 2831558,
-        "displayName": "FoamFix 0.10.9 (1.12.2)",
-        "fileName": "foamfix-0.10.9-1.12.2.jar",
-        "fileDate": "2019-11-23T21:46:27.69Z",
-        "fileLength": 201719,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2831/558/foamfix-0.10.9-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2826518746,
-            "type": 0
-          },
-          {
-            "foldername": "foamfix_at.cfg",
-            "fingerprint": 2590909010,
-            "type": 0
-          },
-          {
-            "foldername": "foamfix_runtime_at.cfg",
-            "fingerprint": 2504249573,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 4069919274,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3033825429,
-            "type": 0
-          },
-          {
-            "foldername": "pl",
-            "fingerprint": 995354786,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2271483576,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "foamfix-0.10.9-1.12.2.jar"
-      },
-      "dateInstalled": "2019-11-11T03:16:15.227203Z",
-      "dateUpdated": "2019-11-24T15:22:45.4408506Z",
-      "dateLastUpdateAttempted": "2019-11-24T15:22:45.4408506Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 311357,
       "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
       "installedFile": {
@@ -11223,6 +11255,84 @@
       "dateInstalled": "2019-11-10T02:52:34.1771965Z",
       "dateUpdated": "2019-11-10T02:52:34.194172Z",
       "dateLastUpdateAttempted": "2019-11-10T02:52:34.194172Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 278494,
+      "gameInstanceID": "5161ff40-0b52-404b-baf5-ab2ae5287e4a",
+      "installedFile": {
+        "id": 2831558,
+        "displayName": "FoamFix 0.10.9 (1.12.2)",
+        "fileName": "foamfix-0.10.9-1.12.2.jar",
+        "fileDate": "2019-11-23T21:46:27.69Z",
+        "fileLength": 201719,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2831/558/foamfix-0.10.9-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2826518746,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_at.cfg",
+            "fingerprint": 2590909010,
+            "type": 0
+          },
+          {
+            "foldername": "foamfix_runtime_at.cfg",
+            "fingerprint": 2504249573,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4069919274,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3033825429,
+            "type": 0
+          },
+          {
+            "foldername": "pl",
+            "fingerprint": 995354786,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2271483576,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "foamfix-0.10.9-1.12.2.jar"
+      },
+      "dateInstalled": "2019-11-11T03:16:15.227203Z",
+      "dateUpdated": "2019-11-24T15:22:45.4408506Z",
+      "dateLastUpdateAttempted": "2019-11-24T15:22:45.4408506Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
